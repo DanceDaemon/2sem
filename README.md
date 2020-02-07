@@ -12,3 +12,6 @@
 
 ## Задание 1.1
 ![Задание 1.1](http://qrcoder.ru/code/?https%3A%2F%2Fdocs.google.com%2Fdocument%2Fd%2F1fsDVDm1RNuhhY-yD6t-hVrwNhfUMfYoz4hJezCj46t0%2Fedit&4&0)
+
+## Задание 1.2
+![Задание 1.2 - Интеллект-карта](http://qrcoder.ru/code/?https%3A%2F%2Fcdn1.savepice.ru%2Fuploads%2F2020%2F2%2F7%2Ff816c275174a751f7aa697ec8acf3d84-full.png&4&0)
